@@ -1,0 +1,10 @@
+sj,101010100,sj@gmail.com,Calpis,50,3500
+LJ,2020202020,LJ@gmail.com,Onigiri,40,4000
+RJ,30303030,RJ@gmail.com,Lemonpan,150,31080
+J,404040040,J@gmail.com,Onigiri,30,3000
+BS,50505050,BS@gmail.com,Onigiri,30,3000
+janak,392039230,j@gmail.com,4,calpis,5,75,375,Sat Feb 17 18:16:28 2024
+soul,96787353638,reaper@gmail.com,4,calpis,5,75,375,Sat Feb 17 18:23:30 2024
+batman,0394034904,bat@gmail.com,1,onigiri,25,100,2000,Sat Feb 17 18:50:20 2024
+
+sahil,678967759,sahil@gmail.com,3,doraya,5,50,250,Mon Feb 19 08:24:06 2024
